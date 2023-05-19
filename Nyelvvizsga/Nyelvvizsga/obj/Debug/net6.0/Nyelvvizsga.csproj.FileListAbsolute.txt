@@ -1,0 +1,15 @@
+C:\Users\kecsk\source\repos\Nyelvvizsga\Nyelvvizsga\bin\Debug\net6.0\Nyelvvizsga.exe
+C:\Users\kecsk\source\repos\Nyelvvizsga\Nyelvvizsga\bin\Debug\net6.0\Nyelvvizsga.deps.json
+C:\Users\kecsk\source\repos\Nyelvvizsga\Nyelvvizsga\bin\Debug\net6.0\Nyelvvizsga.runtimeconfig.json
+C:\Users\kecsk\source\repos\Nyelvvizsga\Nyelvvizsga\bin\Debug\net6.0\Nyelvvizsga.dll
+C:\Users\kecsk\source\repos\Nyelvvizsga\Nyelvvizsga\bin\Debug\net6.0\Nyelvvizsga.pdb
+C:\Users\kecsk\source\repos\Nyelvvizsga\Nyelvvizsga\obj\Debug\net6.0\Nyelvvizsga.csproj.AssemblyReference.cache
+C:\Users\kecsk\source\repos\Nyelvvizsga\Nyelvvizsga\obj\Debug\net6.0\Nyelvvizsga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kecsk\source\repos\Nyelvvizsga\Nyelvvizsga\obj\Debug\net6.0\Nyelvvizsga.AssemblyInfoInputs.cache
+C:\Users\kecsk\source\repos\Nyelvvizsga\Nyelvvizsga\obj\Debug\net6.0\Nyelvvizsga.AssemblyInfo.cs
+C:\Users\kecsk\source\repos\Nyelvvizsga\Nyelvvizsga\obj\Debug\net6.0\Nyelvvizsga.csproj.CoreCompileInputs.cache
+C:\Users\kecsk\source\repos\Nyelvvizsga\Nyelvvizsga\obj\Debug\net6.0\Nyelvvizsga.dll
+C:\Users\kecsk\source\repos\Nyelvvizsga\Nyelvvizsga\obj\Debug\net6.0\refint\Nyelvvizsga.dll
+C:\Users\kecsk\source\repos\Nyelvvizsga\Nyelvvizsga\obj\Debug\net6.0\Nyelvvizsga.pdb
+C:\Users\kecsk\source\repos\Nyelvvizsga\Nyelvvizsga\obj\Debug\net6.0\Nyelvvizsga.genruntimeconfig.cache
+C:\Users\kecsk\source\repos\Nyelvvizsga\Nyelvvizsga\obj\Debug\net6.0\ref\Nyelvvizsga.dll
